@@ -5,13 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://holeaf.uk">
-    <img src="https://img.shields.io/badge/founder-HOLEAF*UK-b8ff39?style=for-the-badge" alt="HOLEAF*UK" />
-  </a>
+  <a href="https://holeaf.uk"><img src="https://img.shields.io/badge/founder-HOLEAF*UK-b8ff39?style=for-the-badge" alt="HOLEAF*UK" /></a>
   &nbsp;&nbsp;&nbsp;
-  <a href="https://fifty50.co.uk">
-    <img src="https://img.shields.io/badge/contractor-fifty50-da360e?style=for-the-badge" alt="fifty50" />
-  </a>
+  <a href="https://fifty50.co.uk"><img src="https://img.shields.io/badge/contractor-fifty50-da360e?style=for-the-badge" alt="fifty50" /></a>
 </p>
 
 ---
